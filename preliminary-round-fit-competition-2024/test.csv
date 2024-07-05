@@ -1,4 +1,4 @@
-id,city_or_regency,year,total_area (km2),population,densities,traffic_density,green_open_space,hdi,gross_regional_domestic_product,total_landfills,solid_waste_generated
+id,city_or_regency,year,total_area,population,densities,traffic_density,green_open_space,hdi,gross_regional_domestic_product,total_landfills,solid_waste_generated
 11022022,Aceh Singkil,2022,"1,857.88","130,787",70.40,Low,685.53,69.62,"3,005",1,"1,926.13"
 11052022,Aceh Timur,2022,"6,040.60","432,849",71.66,Low,0.09,68.72,"13,101",2,"6,319.60"
 11092022,Pidie,2022,"3,184.46","444,505",139.59,Low,0.42,71.2,"12,412",1,"6,489.77"
